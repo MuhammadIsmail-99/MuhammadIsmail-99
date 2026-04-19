@@ -1,53 +1,53 @@
 # Hi there, I'm Muhammad Ismail 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Muhammad%20Ismail&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20Strategist%20%26%20Architect&fontSize=50&animation=fadeIn" />
 </p>
 
-## 🚀 About Me
-I am a **Technical Service Agency Founder** and **Full-Stack Developer** specializing in building high-performance, AI-driven web applications. I bridge the gap between complex technical logic (AI/Python) and premium user experiences (React/Modern UI).
+## 🧠 AI Strategy & Engineering
+I am an **AI Strategist** and **Systems Architect** focused on bridging the gap between cutting-edge AI research and industrial-grade business solutions. As the founder of **Ordinary Agency**, I specialize in architecting autonomous agents and intelligent workflows that drive measurable ROI.
 
-- 🔭 Currently building **Ordinary Agency** and leading the development of **HackData V1**.
-- 🌱 Advanced knowledge in **AI Engineering**, **Supabase architecture**, and **Frontend Performance**.
-- 🛠️ Turning ideas into scalable digital products with a focus on **B2B Redesign** and **Marketplace logic**.
-- 💬 Ask me about: **React optimization, AI agents, and industrial-grade UI/UX.**
+- 🔭 **Current Focus**: Engineering **Agentic Workflows** and leading the strategic rollout of **HackData V1**.
+- 🎯 **Strategic Expertise**: LLM Orchestration, RAG Architecture, AI-Driven Market Intelligence, and Automated Decision Support Systems.
+- 🛠️ **Full-Stack Mastery**: Building high-performance interfaces (React/Vite) backed by scalable cloud infrastructure (Supabase/PostgreSQL).
+- 💬 **Ask me about**: AI implementation strategies, ROI in automation, and the future of human-AI collaboration.
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Specialized Mastery
 
-### 🌐 Frontend & Design
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Backend & Database
+### 🤖 AI & Intelligent Systems
+![GPT-4](https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge&logo=probot&logoColor=white)
+
+### ⚙️ Architecture & Data
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🤖 AI & Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[HackData V1](https://github.com/MuhammadIsmail-99/hackdatav1)** | A full-scale Hackathon management platform with dynamic pricing and team tagging. | React, Supabase, Tailwind | 🚀 Live |
-| **[GZSecutel](https://github.com/MuhammadIsmail-99/gzsecutel)** | Premium B2B redesign for a global security hardware provider. | Vite, Shadcn, TS | 🛠️ In Dev |
-| **[PropLinkX](https://github.com/MuhammadIsmail-99/propLinkX)** | Verified property connection marketplace for owners and agents. | Node, Supabase, React | ✅ Built |
-| **[Agent Competitive Analysis](https://github.com/MuhammadIsmail-99/agent_competitor_analysis)** | AI-driven tool for automated market research and competitor benchmarking. | Python, AI, GPT-4 | 🧪 Lab |
+### 🌐 Design & Performance
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
+## 🌟 Strategic Projects
+
+| Project | Strategic Impact | Tech Architecture |
+| :--- | :--- | :--- |
+| **[Agentic Market Intelligence](https://github.com/MuhammadIsmail-99/agent_competitor_analysis)** | Autonomous competitive analysis agent reducing research overhead by 90%. | GPT-4, Python, LangChain |
+| **[HackData V1](https://github.com/MuhammadIsmail-99/hackdatav1)** | Scalable ecosystem for innovation management with automated tagging & dynamic logic. | React, Supabase, Tailwind |
+| **[PropLinkX](https://github.com/MuhammadIsmail-99/propLinkX)** | Strategic marketplace logic connecting property owners with verified agents. | Node, Supabase, React |
+| **[GZSecutel Redesign](https://github.com/MuhammadIsmail-99/gzsecutel)** | Industrial B2B portal focused on conversion optimization and technical trust. | Vite, Shadcn, TS |
+
+---
+
+## 📫 Strategic Consultation
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
@@ -59,5 +59,5 @@ I am a **Technical Service Agency Founder** and **Full-Stack Developer** special
 
 ---
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
 </p>
