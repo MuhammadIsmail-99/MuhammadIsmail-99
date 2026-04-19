@@ -7,7 +7,7 @@
 ## 🧠 AI Strategy & Systems Engineering
 I am an **AI Strategist** and **Systems Architect** focused on bridging the gap between cutting-edge AI research and scalable industrial solutions. I specialize in architecting autonomous agents, intelligent workflows, and high-performance data systems that drive measurable business impact.
 
-- 🔭 **Current Focus**: Engineering **Agentic Workflows** and architecting the next generation of **Intelligent Innovation Platforms**.
+- 🔭 **Strategic Focus**: Engineering **Agentic Workflows** and architecting the next generation of **Intelligent Innovation Platforms**.
 - 🎯 **Core Expertise**: LLM Orchestration, RAG Architecture, AI-Driven Market Intelligence, and Autonomous Decision Support Systems.
 - 🛠️ **Systems Architecture**: Designing high-performance interfaces (React/Vite) integrated with robust AI backends and scalable cloud infrastructure (Supabase/PostgreSQL).
 - 💬 **Ask me about**: AI implementation strategies, ROI in automation, and architecting for the agentic future.
@@ -20,17 +20,17 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 | Project | Strategic Impact | Tech Architecture |
 | :--- | :--- | :--- |
 | **[Auto-RAG Architect](https://github.com/MuhammadIsmail-99/auto-rag-architect)** | Intelligent system for automated RAG pipeline design & instantiation. | LangChain, ChromaDB |
-| **[SkinExpert AI](https://github.com/MuhammadIsmail-99/skin_care_expert_system)** | High-precision expert system using MYCIN-style certainty factors for clinical diagnostics. | Python, Inference Engine |
 | **[LLM Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker)** | Technical suite for measuring LLM latency, throughput, and cost-efficiency. | Python, OpenAI, Anthropic |
 | **[Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect)** | Framework for production-ready Multi-Agent systems using State Graphs. | Python, OpenAI, State Engines |
 | **[AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist)** | Quantifiable ROI forecasting tool for AI implementation & agentic workflows. | React, Vite, Framer Motion |
-| **[GZSecutel B2B](https://github.com/MuhammadIsmail-99/gzsecutel-react)** | Industrial B2B portal architecture for European security systems. | React, Vite, Shadcn UI |
+| **[SkinExpert AI](https://github.com/MuhammadIsmail-99/skin_care_expert_system)** | High-precision expert system using MYCIN-style certainty factors for clinical diagnostics. | Python, Inference Engine |
 
 ---
 
 ## 🔒 Proprietary Systems & Enterprise Architecture
 *Strategic technical solutions developed for enterprise clients and industrial intelligence.*
 
+- **GZSecutel B2B Architecture**: Industrial-grade B2B portal and security systems infrastructure for European enterprise operations.
 - **PropIQ Dashboard**: High-fidelity Dubai Real Estate intelligence platform with automated multi-source scrapers and predictive analytics.
 - **Reliable Listing Bot**: Automated synchronization engine between PropertyFinder.ae and WordPress, optimizing listing workflows.
 - **Agentic Lead Bridge**: Intelligent tool connecting PropertyFinder, Telegram, and WhatsApp to automate agent-owner communication flows.
