@@ -28,16 +28,16 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 
 ---
 
-## 🔒 Proprietary Systems & Enterprise Architecture
-*Strategic technical solutions developed for enterprise clients and industrial intelligence.*
+## 💼 Commercial Experience & Enterprise Architecture
+*Industrial-grade technical solutions and strategic systems delivered as a lead architect/consultant.*
 
-- **GZSecutel B2B Architecture**: Industrial-grade B2B portal and security systems infrastructure for European enterprise operations.
-- **PropIQ Dashboard**: High-fidelity Dubai Real Estate intelligence platform with automated multi-source scrapers and predictive analytics.
-- **Reliable Listing Bot**: Automated synchronization engine between PropertyFinder.ae and WordPress, optimizing listing workflows.
-- **Agentic Lead Bridge**: Intelligent tool connecting PropertyFinder, Telegram, and WhatsApp to automate agent-owner communication flows.
-- **Signature Space Architecture**: Full-stack real estate infrastructure for a Dubai-based agency, focused on performance and lead conversion.
-- **Olema Strategy Hub**: Strategic digital marketing and web architecture system for specialized marketing operations.
-- **AhdusTech Enterprise**: Scalable technical company digital presence for Ahdus Technology.
+- **GZSecutel B2B Architecture**: Full-scale industrial B2B portal and security systems infrastructure for European enterprise operations.
+- **PropIQ Intelligence Platform**: High-fidelity Dubai Real Estate intelligence platform with automated multi-source scrapers and predictive analytics.
+- **Reliable Listing Bot**: High-performance synchronization engine between PropertyFinder.ae and WordPress, optimizing listing workflows for large agencies.
+- **Agentic Lead Bridge**: Intelligent automation connecting PropertyFinder, Telegram, and WhatsApp to streamline high-volume agent-owner communication flows.
+- **Signature Space Architecture**: Engineered full-stack real estate infrastructure for a major Dubai agency, focused on massive lead conversion and CRM logic.
+- **AhdusTech Enterprise**: Scalable technical company digital presence and architecture for Ahdus Technology.
+- **Olema Strategy Hub**: Strategic digital marketing architecture and web system for specialized marketing operations.
 
 ---
 
