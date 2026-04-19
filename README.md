@@ -23,6 +23,7 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 | **[LLM Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker)** | Technical suite for measuring LLM latency, throughput, and cost-efficiency. | Python, OpenAI, Anthropic |
 | **[Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect)** | Framework for production-ready Multi-Agent systems using State Graphs. | Python, OpenAI, State Engines |
 | **[AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist)** | Quantifiable ROI forecasting tool for AI implementation & agentic workflows. | React, Vite, Framer Motion |
+| **[LaneVision ML](https://github.com/MuhammadIsmail-99/road-lane-detection)** | High-precision computer vision system for real-time autonomous navigation and lane segmentation. | Python, VGG-16, TuSimple |
 | **[SkinExpert AI](https://github.com/MuhammadIsmail-99/skin_care_expert_system)** | High-precision expert system using MYCIN-style certainty factors for clinical diagnostics. | Python, Inference Engine |
 
 ---
