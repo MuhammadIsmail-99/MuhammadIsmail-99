@@ -14,6 +14,31 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 
 ---
 
+## 🌟 Strategic Project Portfolio
+*Publicly available frameworks and open-source intelligence tools.*
+
+| Project | Strategic Impact | Tech Architecture |
+| :--- | :--- | :--- |
+| **[Auto-RAG Architect](https://github.com/MuhammadIsmail-99/auto-rag-architect)** | Intelligent system for automated RAG pipeline design & instantiation. | LangChain, ChromaDB |
+| **[LLM Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker)** | Technical suite for measuring LLM latency, throughput, and cost-efficiency. | Python, OpenAI, Anthropic |
+| **[Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect)** | Framework for production-ready Multi-Agent systems using State Graphs. | Python, OpenAI, State Engines |
+| **[AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist)** | Quantifiable ROI forecasting tool for AI implementation & agentic workflows. | React, Vite, Framer Motion |
+| **[GZSecutel B2B](https://github.com/MuhammadIsmail-99/gzsecutel-react)** | Industrial B2B portal architecture for European security systems. | React, Vite, Shadcn UI |
+
+---
+
+## 🔒 Proprietary Systems & Enterprise Architecture
+*Strategic technical solutions developed for enterprise clients and industrial intelligence.*
+
+- **PropIQ Dashboard**: High-fidelity Dubai Real Estate intelligence platform with automated multi-source scrapers and predictive analytics.
+- **Reliable Listing Bot**: Automated synchronization engine between PropertyFinder.ae and WordPress, optimizing listing workflows.
+- **Agentic Lead Bridge**: Intelligent tool connecting PropertyFinder, Telegram, and WhatsApp to automate agent-owner communication flows.
+- **Signature Space Architecture**: Full-stack real estate infrastructure for a Dubai-based agency, focused on performance and lead conversion.
+- **Olema Strategy Hub**: Strategic digital marketing and web architecture system for specialized marketing operations.
+- **AhdusTech Enterprise**: Scalable technical company digital presence for Ahdus Technology.
+
+---
+
 ## 🛠️ Specialized Mastery
 
 ### 🤖 AI & Intelligent Systems
@@ -33,18 +58,6 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-## 🌟 Strategic Project Portfolio
-
-| Project | Strategic Impact | Tech Architecture |
-| :--- | :--- | :--- |
-| **[Auto-RAG Architect](https://github.com/MuhammadIsmail-99/auto-rag-architect)** | Intelligent system to automatically design & instantiate optimized RAG pipelines. | LangChain, ChromaDB, Python |
-| **[LLM Performance Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker)** | Technical suite to measure and compare LLM latency, throughput, and cost-efficiency. | Python, OpenAI, Anthropic |
-| **[Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect)** | Modular framework for building production-ready Multi-Agent systems & State Graphs. | Python, OpenAI, State Engines |
-| **[AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist)** | Quantifiable ROI forecasting tool for AI implementation & agentic workflows. | React, Vite, Framer Motion |
-| **[Agentic Market Intelligence](https://github.com/MuhammadIsmail-99/agent_competitor_analysis)** | Autonomous competitive analysis agent reducing research overhead by 90%. | GPT-4, Python, LangChain |
 
 ---
 
