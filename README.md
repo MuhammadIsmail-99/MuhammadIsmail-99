@@ -1,7 +1,7 @@
 # Hi there, I'm Muhammad Ismail 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20Strategy%20%26%20Engineering&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=AI%20Strategy%20%26%20Engineering&fontSize=50&animation=fadeIn" />
 </p>
 
 ## 🧠 AI Strategy & Systems Engineering
