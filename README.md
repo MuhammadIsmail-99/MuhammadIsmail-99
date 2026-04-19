@@ -1,16 +1,16 @@
 # Hi there, I'm Muhammad Ismail 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20Strategist%20%26%20Architect&fontSize=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=AI%20Strategy%20%26%20Engineering&fontSize=50&animation=fadeIn" />
 </p>
 
-## 🧠 AI Strategy & Engineering
-I am an **AI Strategist** and **Systems Architect** focused on bridging the gap between cutting-edge AI research and industrial-grade business solutions. As the founder of **Ordinary Agency**, I specialize in architecting autonomous agents and intelligent workflows that drive measurable ROI.
+## 🧠 AI Strategy & Systems Engineering
+I am an **AI Strategist** and **Systems Architect** focused on bridging the gap between cutting-edge AI research and scalable industrial solutions. I specialize in architecting autonomous agents, intelligent workflows, and high-performance data systems that drive measurable business impact.
 
-- 🔭 **Current Focus**: Engineering **Agentic Workflows** and leading the strategic rollout of **HackData V1**.
-- 🎯 **Strategic Expertise**: LLM Orchestration, RAG Architecture, AI-Driven Market Intelligence, and Automated Decision Support Systems.
-- 🛠️ **Full-Stack Mastery**: Building high-performance interfaces (React/Vite) backed by scalable cloud infrastructure (Supabase/PostgreSQL).
-- 💬 **Ask me about**: AI implementation strategies, ROI in automation, and the future of human-AI collaboration.
+- 🔭 **Current Focus**: Engineering **Agentic Workflows** and architecting the next generation of **Intelligent Innovation Platforms**.
+- 🎯 **Core Expertise**: LLM Orchestration, RAG Architecture, AI-Driven Market Intelligence, and Autonomous Decision Support Systems.
+- 🛠️ **Systems Architecture**: Designing high-performance interfaces (React/Vite) integrated with robust AI backends and scalable cloud infrastructure (Supabase/PostgreSQL).
+- 💬 **Ask me about**: AI implementation strategies, ROI in automation, and architecting for the agentic future.
 
 ---
 
@@ -36,18 +36,18 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 
 ---
 
-## 🌟 Strategic Projects
+## 🌟 Strategic Project Portfolio
 
 | Project | Strategic Impact | Tech Architecture |
 | :--- | :--- | :--- |
 | **[Agentic Market Intelligence](https://github.com/MuhammadIsmail-99/agent_competitor_analysis)** | Autonomous competitive analysis agent reducing research overhead by 90%. | GPT-4, Python, LangChain |
 | **[HackData V1](https://github.com/MuhammadIsmail-99/hackdatav1)** | Scalable ecosystem for innovation management with automated tagging & dynamic logic. | React, Supabase, Tailwind |
 | **[PropLinkX](https://github.com/MuhammadIsmail-99/propLinkX)** | Strategic marketplace logic connecting property owners with verified agents. | Node, Supabase, React |
-| **[GZSecutel Redesign](https://github.com/MuhammadIsmail-99/gzsecutel)** | Industrial B2B portal focused on conversion optimization and technical trust. | Vite, Shadcn, TS |
+| **[GZSecutel Architecture](https://github.com/MuhammadIsmail-99/gzsecutel)** | Industrial B2B portal focused on conversion optimization and technical trust. | Vite, Shadcn, TS |
 
 ---
 
-## 📫 Strategic Consultation
+## 📫 Technical Consultation
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
