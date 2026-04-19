@@ -40,11 +40,11 @@ I am an **AI Strategist** and **Systems Architect** focused on bridging the gap 
 
 | Project | Strategic Impact | Tech Architecture |
 | :--- | :--- | :--- |
+| **[LLM Performance Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker)** | Technical suite to measure and compare LLM latency, throughput, and cost-efficiency. | Python, OpenAI, Anthropic |
 | **[Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect)** | Modular framework for building production-ready Multi-Agent systems & State Graphs. | Python, OpenAI, State Engines |
 | **[AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist)** | Quantifiable ROI forecasting tool for AI implementation & agentic workflows. | React, Vite, Framer Motion |
 | **[Agentic Market Intelligence](https://github.com/MuhammadIsmail-99/agent_competitor_analysis)** | Autonomous competitive analysis agent reducing research overhead by 90%. | GPT-4, Python, LangChain |
 | **[HackData V1](https://github.com/MuhammadIsmail-99/hackdatav1)** | Scalable ecosystem for innovation management with automated tagging & dynamic logic. | React, Supabase, Tailwind |
-| **[PropLinkX](https://github.com/MuhammadIsmail-99/propLinkX)** | Strategic marketplace logic connecting property owners with verified agents. | Node, Supabase, React |
 
 ---
 
