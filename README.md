@@ -14,18 +14,6 @@ I am a **Technical Service Agency Founder** and **Full-Stack Developer** special
 
 ---
 
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadIsmail-99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ismail's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIsmail-99&theme=tokyonight&hide_border=true" alt="Ismail's Streak" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadIsmail-99&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Skills
 
 ### 🌐 Frontend & Design
