@@ -31,8 +31,7 @@ Currently co-building **AutoPenTest** — a multi-agent LLM system that automate
 
 **Agentic Lead Bridge** — Automation connecting PropertyFinder leads to Telegram and WhatsApp for real-time agent-owner communication at high volume.
 
-**GZSecutel B2B Portal** — Full-scale B2B portal and security systems infrastructure for a European enterprise client.
-
+**GZSecutel B2B Portal** — Complete modernization of a legacy enterprise platform for [GZSecutel](https://gzsecutel.it/). Architecting a premium, high-fidelity interface to replace a 2000s-era system, focusing on scalable B2B e-commerce workflows. *(In Progress)*
 ---
 
 ## Tech
