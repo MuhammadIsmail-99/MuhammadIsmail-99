@@ -1,6 +1,6 @@
 # Muhammad Ismail
 
-**AI Developer · Full-Stack Engineer · Open to Remote AI/ML Internships (Jun 22)**
+**AI Developer · Full-Stack Engineer**
 
 I'm a 3rd-year BS Artificial Intelligence student at COMSATS University Islamabad building production-oriented AI systems — LLM agents, RAG pipelines, and intelligent web applications. Chapter Lead at Google Developer Groups on Campus (CUI Wah), where I organize technical bootcamps and sessions for 100+ students.
 
@@ -18,10 +18,14 @@ Currently co-building **AutoPenTest** — a multi-agent LLM system that automate
 | [Auto-RAG Architect](https://github.com/MuhammadIsmail-99/auto-rag-architect) | Automated RAG pipeline design and instantiation tool | Python, LangChain, ChromaDB |
 | [LaneVision ML](https://github.com/MuhammadIsmail-99/road-lane-detection) | Real-time lane detection and segmentation using VGG-16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
 | [SkinExpert AI](https://github.com/MuhammadIsmail-99/skin_care_expert_system) | MYCIN-style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
+
+### Explored / AI-assisted builds
+
+| Project | What it does | Stack |
+|---|---|---|
 | [LLM Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker) | Measures LLM latency, throughput, and cost across providers | Python, OpenAI, Anthropic APIs |
 | [Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect) | Multi-agent framework using state graphs for production workflows | Python, LangGraph |
 | [AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist) | ROI forecasting tool for AI automation implementations | React, Vite |
-
 
 ---
 
