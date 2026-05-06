@@ -1,28 +1,22 @@
 # Muhammad Ismail
 
-**AI Developer · Full-Stack Engineer**
+**AI Developer · Full-Stack Engineer · Open to Remote AI/ML Internships (Jun 22)**
 
-I'm a 3rd-year BS Artificial Intelligence student at COMSATS University Islamabad building production-oriented AI systems — LLM agents, RAG pipelines, and intelligent web applications. Chapter Lead at Google Developer Groups on Campus (CUI Wah), where I organize technical bootcamps and sessions for 100+ students.
+I'm a 3rd-year BS Artificial Intelligence student at COMSATS University Islamabad building production-oriented AI systems — LLM agents, RAG pipelines, and intelligent web applications. Web & App Development Lead at Google Developer Groups on Campus (CUI Wah), organizing technical bootcamps and sessions for 100+ students.
 
-Currently co-building **AutoPenTest** — a multi-agent LLM system that automates web penetration testing workflows, supervised by Dr. Khalid.
+Currently co-building **AutoPenTest** — a multi-agent LLM system that automates web penetration testing workflows.
 
 ---
 
 ## Projects
 
-### Built myself
-
 | Project | What it does | Stack |
 |---|---|---|
 | [AutoPenTest](https://github.com/MuhammadIsmail-99) | Multi-agent LLM system for automated web penetration testing — chains agents to plan, execute, and report attack flows | Python, LangChain, LLM Agents |
+| [Sortd](https://github.com/MuhammadIsmail-99) | Mobile-first AI content capture PWA — share reels from Instagram/TikTok directly into an organized, searchable note system | React, Supabase, Groq Whisper |
 | [Auto-RAG Architect](https://github.com/MuhammadIsmail-99/auto-rag-architect) | Automated RAG pipeline design and instantiation tool | Python, LangChain, ChromaDB |
 | [LaneVision ML](https://github.com/MuhammadIsmail-99/road-lane-detection) | Real-time lane detection and segmentation using VGG-16, trained on TuSimple dataset | Python, PyTorch, Computer Vision |
 | [SkinExpert AI](https://github.com/MuhammadIsmail-99/skin_care_expert_system) | MYCIN-style expert system using certainty factors for clinical skin condition diagnosis | Python, Inference Engine |
-
-### Explored / AI-assisted builds
-
-| Project | What it does | Stack |
-|---|---|---|
 | [LLM Benchmarker](https://github.com/MuhammadIsmail-99/llm-performance-benchmarker) | Measures LLM latency, throughput, and cost across providers | Python, OpenAI, Anthropic APIs |
 | [Agentic State Architect](https://github.com/MuhammadIsmail-99/agentic-state-architect) | Multi-agent framework using state graphs for production workflows | Python, LangGraph |
 | [AI ROI Strategist](https://github.com/MuhammadIsmail-99/ai-roi-strategist) | ROI forecasting tool for AI automation implementations | React, Vite |
@@ -43,20 +37,42 @@ Currently co-building **AutoPenTest** — a multi-agent LLM system that automate
 
 ## Tech
 
-**AI/ML:** Python · LangChain · LangGraph · RAG · LLM Agents · PyTorch · Computer Vision · Prompt Engineering
+### AI & ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Backend:** FastAPI · Node.js · PostgreSQL · Supabase · Prisma
+### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-**Frontend:** React · Next.js · TypeScript · Tailwind CSS
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Tools & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Currently
 
-- 🔭 Building AutoPenTest (multi-agent web pentest automation) for my Final Year Project
+- 🔭 Building **AutoPenTest** — multi-agent LLM web penetration testing system (FYP)
+- 🚀 Building **Sortd** — AI content capture App (startup phase)
 - 🎯 Looking for a **remote AI/ML internship** starting **June 22** (6–8 weeks)
-- 🏫 Running technical sessions and bootcamps as GDGoC Chapter Lead at CUI Wah
+- 🏫 Web & App Development Lead at **GDGoC CUI Wah**
 
 ---
 
-📫 [LinkedIn](https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/) · mrismail433@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/muhammad-ismail-b1bb492ba/) · mrismaeel@outlook.com
