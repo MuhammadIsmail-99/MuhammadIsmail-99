@@ -1,6 +1,6 @@
 # Muhammad Ismail
 
-**AI Developer · Full-Stack Engineer · Open to Remote AI/ML Internships (Jun 22)**
+**AI Developer · Full-Stack Engineer**
 
 I'm a 3rd-year BS Artificial Intelligence student at COMSATS University Islamabad building production-oriented AI systems — LLM agents, RAG pipelines, and intelligent web applications. Web & App Development Lead at Google Developer Groups on Campus (CUI Wah), organizing technical bootcamps and sessions for 100+ students.
 
